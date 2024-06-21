@@ -1,0 +1,10 @@
+{"qrCodeAPI": "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=",
+        "qrCodeSize": "200x200",
+        "animationDuration": "1s",
+        "animationIterations": 10,
+        "errorAnimationDuration": "0.1s",
+        "errorAnimationType": "shake",
+        "errorAnimationTranslation": 2,
+        "errorAnimationInterval": 1,
+        "permissions":["activeTab"]
+}
